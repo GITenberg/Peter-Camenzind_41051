@@ -1,0 +1,32 @@
+_repo: Peter-Camenzind_41051
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41051-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Lauscher, Hermann
+    - Sinclair, Emil
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Hesse
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41051'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+title: Peter Camenzind
+url: http://www.gutenberg.org/ebooks/41051
